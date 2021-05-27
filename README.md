@@ -1,1 +1,1 @@
-  **This file is mandatory in all ALX School projects**
+  **This README file is edited from GitHub website**
